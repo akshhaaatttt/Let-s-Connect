@@ -58,6 +58,8 @@ src/
 1. **Access Admin Panel**: Admins will see an "Admin" link in the navigation bar
 2. **Moderate Events**: Review, approve, or reject submitted events
 3. **Manage Content**: Update event details or remove inappropriate content
+4. **Admin id**: akshatjp001@gmail.com
+5. **password**: Akshat#123
 
 ## 📝 Database Structure
 
