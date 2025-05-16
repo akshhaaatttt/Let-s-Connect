@@ -23,7 +23,6 @@ Let's Connect is a platform for discovering and sharing tech events from univers
 - React Router
 - Tanstack React Query
 
-## 🔧 Setup and Installation
 
 ## 💻 Project Structure
 
@@ -39,6 +38,8 @@ src/
 ```
 
 ## 🌐 How to Use the Website
+
+Live link:- https://lets-connect-akshat.vercel.app/
 
 ### For Visitors
 
